@@ -1,0 +1,7 @@
+# ninja log v5
+0	6151	1683568437411813760	/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-310/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	f5fefd27a67654ac
+1	23976	1683568455228926543	/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-310/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/vision.o	9881a9c043fa93d1
+1	24124	1683568455378930299	/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-310/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	1b7ffa59c136f947
+1	5557	1684172617045209051	/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-310/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	f5fefd27a67654ac
+1	23489	1684172634969006343	/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-310/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/vision.o	9881a9c043fa93d1
+1	23772	1684172635252347012	/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-310/home/dorec/MaskFormers/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	1b7ffa59c136f947
